@@ -1,10 +1,3 @@
-
-
-// function GoogleMaps() {
-//     return <div>hello</div>
-// }
-// export default GoogleMaps;
-//note: code formatted for ES6 here
 import {Map, InfoWindow, Marker, GoogleApiWrapper} from 'google-maps-react';
 import { Component } from 'react';
 import PlacesAutocomplete, {
